@@ -8,9 +8,9 @@ A curated collection of database and data management projects built while learni
 
 This repository contains data management projects categorized by difficulty level:
 
-* 🟢 **Beginner** – Basic SQL, database creation, tables, records, and simple queries
-* 🟡 **Intermediate** – Joins, aggregate functions, grouping, subqueries, and more complex database operations
-* 🟠 **Advanced** – Database design, normalization, security, procedures, triggers, and larger database systems *(Coming Soon)*
+* 🟢 **MySQL** – Written entirely for MySQL projects
+* 🟡 **MS SQL Server** – Written entirely for MS SQL Server projects *(Coming Soon)*
+* 🟠 **PostgreSQL** – Written entirely for PostgreSQL projects *(Coming Soon)*
 
 Each project includes its own SQL source file and a dedicated **README.md** explaining its features, database structure, queries, concepts demonstrated, and learning objectives.
 
