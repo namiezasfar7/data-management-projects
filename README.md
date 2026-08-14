@@ -166,7 +166,7 @@ The projects in this repository are designed to gradually cover important databa
 For example:
 
 ```text
-beginner/
+mysql-projects/
     ↓
 shop-sales-analysis/
     ↓
