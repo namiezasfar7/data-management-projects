@@ -182,7 +182,7 @@ The SQL scripts may be developed using different database systems and tools depe
 - SQLite
 - Other SQL-compatible database environments
 
-Note: SQL syntax and available features may vary between database management systems. Refer to each project's individual README.md for the required database system, setup instructions, and project-specific requirements.
+> **Note:** SQL syntax and available features may vary between database management systems. Refer to each project's individual README.md for the required database system, setup instructions, and project-specific requirements.
 
 ---
 
