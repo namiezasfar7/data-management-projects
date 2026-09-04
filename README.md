@@ -62,7 +62,9 @@ Each project includes its own SQL source file and a dedicated **README.md** expl
 ```text
 data-management-projects/
 │── mysql-projects/
-│   └── shop-sales-analysis/
+│   │── customer-account-management/
+│   │── shop-sales-analysis/
+│   └── student-subject-management/
 │
 │── ms-sql-projects/
 │
@@ -77,7 +79,9 @@ data-management-projects/
 
 | Project | Description |
 |---------|-------------|
+| Customer Account Management | A MySQL project demonstrating **relational database design and JOIN operations** using a customer and bank account management scenario. |
 | Shop Sales Analysis | A MySQL-based project that demonstrates relational database creation, table relationships, `INNER JOIN`, `LEFT JOIN`, aggregate functions, `GROUP BY`, `HAVING`, and category-based sales analysis. |
+| Student Subject Management | A MySQL-based Student Subject Management System that demonstrates how to create relational database tables, insert records, establish relationships between students and subjects, and retrieve related data using different types of SQL joins. |
 
 ---
 
